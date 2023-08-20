@@ -1,1 +1,1449 @@
-([[This file was protected with MoonSec V3 by federal9999 on discord]]):gsub('.+', (function(a) _QGOscLnjAFQL = a; end)); return(function(s,...)local l;local a;local t;local u;local o;local r;local e=24915;local n=0;local d={};while n<339 do n=n+1;while n<0x122 and e%0x3b90<0x1dc8 do n=n+1 e=(e-77)%24932 local f=n+e if(e%0x14b8)<=0xa5c then e=(e-0x321)%0x9d43 while n<0xfc and e%0x3a32<0x1d19 do n=n+1 e=(e+781)%23109 local r=n+e if(e%0x3078)>0x183c then e=(e-0x3f5)%0x546b local e=2566 if not d[e]then d[e]=0x1 l=getfenv and getfenv();end elseif e%2~=0 then e=(e*0x2f1)%0x2ead local e=5023 if not d[e]then d[e]=0x1 o={};end else e=(e-0x10)%0x24a0 n=n+1 local e=51965 if not d[e]then d[e]=0x1 t=string;end end end elseif e%2~=0 then e=(e-0xb5)%0x5e0d while n<0x37e and e%0x38f6<0x1c7b do n=n+1 e=(e+316)%35881 local a=n+e if(e%0x4a38)>=0x251c then e=(e+0x2ac)%0xad2b local e=42060 if not d[e]then d[e]=0x1 end elseif e%2~=0 then e=(e-0x204)%0x7088 local e=95084 if not d[e]then d[e]=0x1 end else e=(e-0x35f)%0x22ac n=n+1 local e=97763 if not d[e]then d[e]=0x1 r=function(d)local e=0x01 local function n(n)e=e+n return d:sub(e-n,e-0x01)end while true do local d=n(0x01)if(d=="\5")then break end local e=t.byte(n(0x01))local e=n(e)if d=="\2"then e=o.ZsCbgBKR(e)elseif d=="\3"then e=e~="\0"elseif d=="\6"then l[e]=function(n,e)return s(8,nil,s,e,n)end elseif d=="\4"then e=l[e]elseif d=="\0"then e=l[e][n(t.byte(n(0x01)))];end local n=n(0x08)o[n]=e end end end end end else e=(e-0x1a3)%0xafb8 n=n+1 while n<0xc1 and e%0x16b6<0xb5b do n=n+1 e=(e-590)%9940 local r=n+e if(e%0x40a8)<0x2054 then e=(e-0x3c9)%0x990 local e=53630 if not d[e]then d[e]=0x1 l=(not l)and _ENV or l;end elseif e%2~=0 then e=(e-0x387)%0x3bcb local e=92883 if not d[e]then d[e]=0x1 u=tonumber;end else e=(e+0x304)%0x103e n=n+1 local e=84488 if not d[e]then d[e]=0x1 a="\4\8\116\111\110\117\109\98\101\114\90\115\67\98\103\66\75\82\0\6\115\116\114\105\110\103\4\99\104\97\114\106\77\105\118\85\119\81\117\0\6\115\116\114\105\110\103\3\115\117\98\76\69\108\69\82\99\118\105\0\6\115\116\114\105\110\103\4\98\121\116\101\119\102\101\83\65\107\76\102\0\5\116\97\98\108\101\6\99\111\110\99\97\116\86\86\99\88\118\105\74\117\0\5\116\97\98\108\101\6\105\110\115\101\114\116\70\67\107\68\104\69\122\74\5";end end end end end e=(e*855)%6151 end r(a);local e={};for n=0x0,0xff do local d=o.jMivUwQu(n);e[n]=d;e[d]=n;end local function h(n)return e[n];end local a=(function(f,r)local a,d=0x01,0x10 local n={{},{},{}}local l=-0x01 local e=0x01 local t=f while true do n[0x03][o.LElERcvi(r,e,(function()e=a+e return e-0x01 end)())]=(function()l=l+0x01 return l end)()if l==(0x0f)then l=""d=0x000 break end end local l=#r while e<l+0x01 do n[0x02][d]=o.LElERcvi(r,e,(function()e=a+e return e-0x01 end)())d=d+0x01 if d%0x02==0x00 then d=0x00 o.FCkDhEzJ(n[0x01],(h((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+t)%0x100)));t=f+t;end end return o.VVcXviJu(n[0x01])end);r(a(106,"=7P*MR8OVNUo<_}gNo"));r(a(87,"PDd#2K1(I}SRH{ksS}KI1kDIRsKsy{SssKskRIK}/KIs1Dk2}H2#s{}#2DIS#22Ik2IR#skI(I#2kWI1dk{}Iv#D1kDRds{S(SdI{((#FH{D1{s{HH1DDDK24#D}H#1SmSRIKSSDRd2sXRS#KD{S}dKRs1}KK?H}}K{SI(}}#1sdIs{KkKI1#ckHI{dK{K(,dkkd1oD2{{DdH#{#1kd1HI1}dDR((#J}R#11vIRH21,RHN2SsDIsK(}I22#Hs2}RKKs}SK-skk1s#{{5(DDKsfI{{D(S}1d}{SIkDb{iIk!KR112D{SH_{RK}12sdIHK(SddS1(1DIKdssD2RI1KXsR1K1T2S12k{kIndIH{Sz2K{##o{ks1IH#1k}IR{Kk{Is#S{2(s#EHsI(dHHd(RD2RH1#RS1K({DsHS12EsH:K#sD}(11s1SdKsi(2Ss2EIR#K#ZDRZKR{#SI2{{1S2#HHI#D{HsdI{#{{sI12Y{11{DIR2}Va1SsILR{1S(HD}{K(dRIHd(DD{H1(dD#S1KdBH}I21D}ISs1"));local e=(-15578+(function()local t,n=0,1;(function(e,d,l,n)l(d(e,l,n,l and e),e(e,e,e,e)and e(d,n,n,e and e),e(n,d,n,e and e)and d(n and e,d,n,e),l(d,n,l,n))end)(function(l,d,r,e)if t>329 then return e end t=t+1 n=(n*889)%39124 if(n%816)<408 then n=(n*613)%37712 return e else return d(r(e,d,e,e),l(r,d,e,r),r(l,l,d,d)and e(l,r,d,e and d),r(e,l and e,e,r))end return d(d(e,e,r and e,e)and d(l,d and d,d,l),e(e,l and l,e,e)and l(r,l,e and e,r and l),r(l and l,r,d,e),e(r,e,d and d,r)and l(d,l and r,e,e))end,function(r,e,d,l)if t>301 then return l end t=t+1 n=(n+404)%43443 if(n%820)<410 then return e else return r(l(l,l,d,d),l(e and e,e,r and r,e),r(l,e,e and e,e),d(e,l and r,d,r))end return l(d(d,d,d,d),e(e,e,l,e)and d(l and d,e,e,e),e(r,r,e and e,r),d(r,r,e,l))end,function(e,r,d,l)if t>167 then return e end t=t+1 n=(n-764)%19926 if(n%1188)>=594 then n=(n-578)%39010 return d else return e(l(r and l,e,e,e and e),e(d,d and d,l,r and l),d(l,d,r,d),l(e,l,e,e))end return d(e(e,r,e,l),l(e,r,d,r),d(d,l,r,d)and l(l,e,e,d and l),e(e and d,d,r,e))end,function(l,e,r,d)if t>229 then return l end t=t+1 n=(n+349)%30907 if(n%720)<360 then n=(n+566)%38086 return l else return d(d(e and e,l and r,e,r),e(l,l,r,d)and r(d and l,l,d,r and e),e(e,l,d,e),d(d and e,e,r,r)and e(d,l,d,e))end return l(e(r,e,d,l),r(e and r,e and l,e and e,d and r),d(d and l,d,d,l),e(e and d,d and d,l,r and e)and e(r and e,l,l,l))end)return n;end)())local h=o.UJGmTWkj or o.aplYiYXV;local de=(getfenv)or(function()return _ENV end);local f=4;local r=3;local l=2;local z=1;local function y(g,...)local a=a(e,"&{9}YrICn1,Nvg_Rr{C9,N_Y{gr,nRvn-{nngY{1Y,{_IY1Qv1o9,_gg{,rNnNN1xr}1CrCb,,gR9A9>1,19vNFY1{g_{nrNY{vFRv}nI,r___{{rvY9vNoI}vC,,YgN9rYRnCCvyv}CCN,n11RRr,1}vN_1}YINI{g0_IBvnCgCNC}II_,I_a9IY_191ng{f,Y}I}_N9}(_nNv1;v}rC,NI_{NI%,9nI{1,N}vrv1r_IR1Ch1{,}_NYvrR,rRC+1NU,{N}nNrvCvRI#C{,Y3N{v}IgI{CYnn{N,Y{CN,C_C}Ir{N}_NNNYf9gII1RYanrN_R}9R9Rrg1I{9},n1C1_N9II,1Cgg:}YRnIN{RC9{II1_ggiCY1nnCN_19_IrIq,RR19rI{19vn{9YYnrNY_n99IN1Rg_R991nI,RRC9CIC,Yv_qIryI}g,TCYnnIn#Rg9II_1,g9{v/_nrvC_vvYV}}IIR,n9InvNvRN?n}{}CCg,1_9{NN}g_/gY_,NgYRIr{nI1IgY{nYv}11g,N_Y{g}IYCY,_{R99jnv1gNn}CYnYg_9R}9vng1_N9}nY1I{_}RY9,n_,X,n}1YNY__YRrU nR,{,,C,gn{sr,nIvvR9_19grN1YvgI_,n_r9,YvnYNRfY}vCRnYC1NN_N9YrggNY9CvNrgR{Rrnn,gn1CgNl1Y9CN9*rvn1vx Y9{CI,YRr{,I/9CIC11g9mN1Y_1{CInngg}^gg}9rYrC_NC}g1ng{f19CC9,1g_!NIr1vvvf,}vn{nR_1{grI1%g9g_Y,n}N,n{vnR}9vIr__}nC_NaR99gr1n_g}_I{kr_Nn_gNvRR9_IC,;Yrn{,v_n}bI,,{g{>RY{{}r}nrN_RCCngg{IYNrNN9R,NRRg}{I,,}}gn}NCRY9rR1}IIN,YggCgN2Rr9IR,}vIv,rg_IN1rgN},9v11_rgCYY{nrnn,v}RvIr,QgCr9nnNgRQvY%9}IIR,nr{nvNvR,}1R_}NCT,1_9nINgRm}{RRgIC{,,_}RvMg9R,CNn_Rr9I}INRgk_},,nN1_Nr}IYC_R_uR9r,1N,RYrYIrC,RR{0}9,,NN__rrIICNGU{{YC,NNvN_rIICnRK{{}{N,vNgRj1C1h,{v}}NYvn}_IRCRR1{,9vr}vYgCR_CRnfQ19,Y,n}gY_Cu_nR,S91},r,1}_YRIY_1RNwY1Y,rN{}Rr<nn_,Rvzr1r,IgYYer9rI_NRv{n1I,CN}Y{r9n,_vR_+C1C,ngIY9r}IN_gR_}Y1n,,N9n}Cvn_n_9C}nrng9_}s_Ng{1CC,1_,}}rY,}vI{9RCrNN{_}91rR1vgY%IRn}{Y,NRNvRr9_ICNCg1{9YNnrNgRI9RC,Ngg,{}Yv1}N_RC}mCN,vgN{YYgn_NRRn}{1yNRgv{rY_ngv7R,}9I_,Y_{{,YRnnv{Wm}}Ig,r_9{Nr^n1v9b9}YI_,IgR99r{n,v}Rg}rI_,CR9}}r9nNvY{z}IIR,nA{95r}nvvrR_}CCg,1L9}9rYngvIRR}nCg,,P}}CrrnRvC//}1C},Ne,9IrI18vn%R},CY,vR1{_rN1Yv1%9}Nn9,g_C{Rrv1rv,(}}v1R,__n9kC1,RvN!r}gCI,R_19{nE,Yvv0I}_n1NU_,99I#1Yg{6,}RCnN{Rv9}rg1rg9dNYkC1N9{r9Yr_1I_R9rY{CNN}_v9rrR1CRI{vY9CvNY{C9II;1ng}A,YCnjNr__9Cn,11g}ANIY1,NIRW9nI{1,gYXvIN1{NCR{91nv1Ngr0grKCRNvRr9,I}1vRRt_YnnMg1JR9NIr1ggI(RY1n{_7uI9vII1_F{{pY,n9v9RY}{I,1Rgn{{CYn}NgRrY_nY,!g,{9YNnYN_RIrrCN,{gN{}CInrNRRC}NI1,IgR{YYgnI_1Rn}9I,v}R1{rYRnCv>R1}}INv,__{Irxnn_}R,}YIvN,g_{NrYn1v9RNrIIg,CgR{vrrn,v}RvrRI_,n_/}1IRnNvrRg}IIR,1_{Y IYnvvIR_rgC/,,_99,rY1{v,RR}nC{gK_}{grr19vNa.}1C9gr_Y{_rI,R_r6{}NC},v_r{RrCNIgv49}vCYgC_I9.rn,}v,tCYGCr,__CY,r11}vNLnY{CI,R_nr1r,1Yvv{CrnCCN{_1}nrN1Yvg{nrgCnN}_,9Crv1rv_aCYvC1N}_N9Irg1CvR{,Y,C,NY_v}Nr_1CgQ{NYvCNNI_g9RrR1ng{w,IxCvNI__91I01,g9{gYgCgNC_R}nI{1,g}{_Y1C_N1R^}vI91NgY9gr{CRN,R{9vI},ggr9-rCn6NgR9}{IY1ggIwRI9n{NvR}}/Ir1_gC{Hr_n9NvRY9gII,{gn{{ICn}NgRr9RIC,{g1{Ir{nYNgRII,In,9g,}}rCnrNRRC}.I1N1gN9IYgnIv9RnY1I,,}gv{rr,nCv{R1}rIN,rgg{Ir1nnv{R,}YIv,rg_{Cr5n1v9");local n=0;o.Sfifegem(function()o.MdyGOTdJ()n=n+1 end)local function e(e,d)if d then return n end;n=e+n;end local d,n,c=s(0,s,e,a,o.wfeSAkLf);local function t()local d,n=o.wfeSAkLf(a,e(1,3),e(5,6)+2);e(2);return(n*256)+d;end;local _=true;local _=0 local function k()local l=n();local e=n();local r=1;local l=(d(e,1,20)*(2^32))+l;local n=d(e,21,31);local e=((-1)^d(e,32));if(n==0)then if(l==_)then return e*0;else n=1;r=0;end;elseif(n==2047)then return(l==0)and(e*(1/0))or(e*(0/0));end;return o._fXmxMXx(e,n-1023)*(r+(l/(2^52)));end;local p=n;local function b(n)local d;if(not n)then n=p();if(n==0)then return'';end;end;d=o.LElERcvi(a,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+_),#d do e=e..o.LElERcvi(d,n,n)end return e;end;local p=#o.fMFEAkgL(u('\49.\48'))~=1 local e=n;local function j(...)return{...},o.aOQDwDDl('#',...)end local function m()local _={};local e={};local s={};local u={_,s,nil,e};local e=n()local a={}for l=1,e do local d=c();local e;if(d==3)then e=(c()~=#{});elseif(d==1)then local n=k();if p and o.HWwi_qAd(o.fMFEAkgL(n),'.(\48+)$')then n=o.jTWhKPzB(n);end e=n;elseif(d==0)then e=b();end;a[l]=e;end;u[3]=c();for u=1,n()do local e=c();if(d(e,1,1)==0)then local o=d(e,2,3);local h=d(e,4,6);local e={t(),t(),nil,nil};if(o==0)then e[r]=t();e[f]=t();elseif(o==#{1})then e[r]=n();elseif(o==g[2])then e[r]=n()-(2^16)elseif(o==g[3])then e[r]=n()-(2^16)e[f]=t();end;if(d(h,1,1)==1)then e[l]=a[e[l]]end if(d(h,2,2)==1)then e[r]=a[e[r]]end if(d(h,3,3)==1)then e[f]=a[e[f]]end _[u]=e;end end;for e=1,n()do s[e-(#{1})]=m();end;return u;end;local function p(d,e,n)local l=e;local l=n;return u(o.HWwi_qAd(o.HWwi_qAd(({o.Sfifegem(d)})[2],e),n))end local function ne(g,e,u)local function ee(...)local a,ee,t,y,_,n,c,m,b,k,p,d;local e=0;while-1<e do if e>=3 then if 4>=e then if e~=0 then for n=49,74 do if 4~=e then m={};b={...};break;end;k=o.aOQDwDDl('#',...)-1;p={};break;end;else k=o.aOQDwDDl('#',...)-1;p={};end else if 2~=e then repeat if 6~=e then d=s(7);break;end;e=-2;until true;else e=-2;end end else if e<1 then a=s(6,60,1,62,g);ee=s(6,93,2,75,g);else if e>=-1 then repeat if 1~=e then n=-41;c=-1;break;end;t=s(6,26,3,22,g);_=j y=0;until true;else t=s(6,26,3,22,g);_=j y=0;end end end e=e+1;end;for e=0,k do if(e>=t)then m[e-t]=b[e+1];else d[e]=b[e+1];end;end;local e=k-t+1 local e;local t;local function o(...)while true do end end while true do if n<-40 then n=n+42 end e=a[n];t=e[z];if t>=17 then if 26>t then if t>=21 then if t<=22 then if 19<=t then repeat if t>21 then local n=e[l]local l,e=_(d[n](h(d,n+1,e[r])))c=e+n-1 local e=0;for n=n,c do e=e+1;d[n]=l[e];end;break;end;local e=e[l]d[e](d[e+1])until true;else local n=e[l]local l,e=_(d[n](h(d,n+1,e[r])))c=e+n-1 local e=0;for n=n,c do e=e+1;d[n]=l[e];end;end else if t<24 then for t=0,3 do if t<=1 then if-2<=t then for o=23,91 do if 0~=t then u[e[r]]=d[e[l]];n=n+1;e=a[n];break;end;d[e[l]]=(e[r]~=0);n=n+1;e=a[n];break;end;else d[e[l]]=(e[r]~=0);n=n+1;e=a[n];end else if-2<=t then repeat if t>2 then if(d[e[l]]==e[f])then n=n+1;else n=e[r];end;break;end;d[e[l]]=u[e[r]];n=n+1;e=a[n];until true;else d[e[l]]=u[e[r]];n=n+1;e=a[n];end end end else if t>21 then repeat if t~=25 then local t,f,o,a,h;local n=0;while n>-1 do if n<3 then if 0>=n then t=e;else if n==1 then f=l;else o=r;end end else if n<5 then if 2<n then for e=45,94 do if 3<n then h=t[f];break;end;a=t[o];break;end;else a=t[o];end else if n~=4 then repeat if 5<n then n=-2;break;end;d(h,a);until true;else n=-2;end end end n=n+1 end break;end;local e=e[l]d[e]=d[e](h(d,e+1,c))until true;else local e=e[l]d[e]=d[e](h(d,e+1,c))end end end else if 18>=t then if t~=13 then repeat if t~=17 then d[e[l]]();break;end;if(d[e[l]]==e[f])then n=n+1;else n=e[r];end;until true;else if(d[e[l]]==e[f])then n=n+1;else n=e[r];end;end else if 18<=t then for o=31,88 do if 19<t then d[e[l]]();break;end;if(d[e[l]]~=e[f])then n=n+1;else n=e[r];end;break;end;else d[e[l]]();end end end else if 29>=t then if t<28 then if t>=24 then repeat if 26<t then local e=e[l]d[e](d[e+1])break;end;d[e[l]]=u[e[r]];until true;else local e=e[l]d[e](d[e+1])end else if t==29 then d[e[l]]=d[e[r]][e[f]];else d[e[l]]=u[e[r]];end end else if 32>t then if 31~=t then local t;for o=0,6 do if 2>=o then if 0>=o then d(e[l],e[r]);n=n+1;e=a[n];else if 1<o then d[e[l]]=u[e[r]];n=n+1;e=a[n];else t=e[l]d[t](d[t+1])n=n+1;e=a[n];end end else if 4>=o then if o>=2 then repeat if 3~=o then t=e[l]d[t](d[t+1])n=n+1;e=a[n];break;end;d(e[l],e[r]);n=n+1;e=a[n];until true;else t=e[l]d[t](d[t+1])n=n+1;e=a[n];end else if 3<o then for t=12,74 do if o~=6 then d[e[l]]=u[e[r]];n=n+1;e=a[n];break;end;d[e[l]]=u[e[r]];break;end;else d[e[l]]=u[e[r]];n=n+1;e=a[n];end end end end else local l=e[l];local n=d[e[r]];d[l+1]=n;d[l]=n[e[f]];end else if 32>=t then do return end;else if 31<t then for o=41,61 do if 33~=t then if(d[e[l]]==e[f])then n=n+1;else n=e[r];end;break;end;local o,a,f,t,h;local n=0;while n>-1 do if n>2 then if 5>n then if n~=2 then repeat if n~=3 then h=o[a];break;end;t=o[f];until true;else t=o[f];end else if n>=2 then repeat if 6>n then d(h,t);break;end;n=-2;until true;else d(h,t);end end else if 1>n then o=e;else if n>0 then for e=39,83 do if 1~=n then f=r;break;end;a=l;break;end;else a=l;end end end n=n+1 end break;end;else local t,h,f,o,a;local n=0;while n>-1 do if n>2 then if 5>n then if n~=2 then repeat if n~=3 then a=t[h];break;end;o=t[f];until true;else o=t[f];end else if n>=2 then repeat if 6>n then d(a,o);break;end;n=-2;until true;else d(a,o);end end else if 1>n then t=e;else if n>0 then for e=39,83 do if 1~=n then f=r;break;end;h=l;break;end;else h=l;end end end n=n+1 end end end end end end else if t>7 then if t<=11 then if t>=10 then if 9<t then repeat if t~=10 then local n=e[l];local l=d[e[r]];d[n+1]=l;d[n]=l[e[f]];break;end;do return end;until true;else do return end;end else if 9>t then u[e[r]]=d[e[l]];else if(d[e[l]]~=e[f])then n=n+1;else n=e[r];end;end end else if t>13 then if t>14 then if 15<t then local t,s,u,f;for o=0,4 do if o>=2 then if o<=2 then t=e[l]d[t]=d[t](h(d,t+1,c))n=n+1;e=a[n];else if 0<=o then repeat if 3~=o then n=e[r];break;end;d[e[l]]();n=n+1;e=a[n];until true;else n=e[r];end end else if o~=-2 then repeat if 1>o then d(e[l],e[r]);n=n+1;e=a[n];break;end;t=e[l]s,u=_(d[t](h(d,t+1,e[r])))c=u+t-1 f=0;for e=t,c do f=f+1;d[e]=s[f];end;n=n+1;e=a[n];until true;else d(e[l],e[r]);n=n+1;e=a[n];end end end else local e=e[l]d[e]=d[e](h(d,e+1,c))end else local n=e[l]d[n](h(d,n+1,e[r]))end else if t~=13 then u[e[r]]=d[e[l]];else d[e[l]]=(e[r]~=0);end end end else if 4<=t then if 6<=t then if t>=5 then repeat if t>6 then local n=e[l]local l,e=_(d[n](h(d,n+1,e[r])))c=e+n-1 local e=0;for n=n,c do e=e+1;d[n]=l[e];end;break;end;for t=0,3 do if 1>=t then if-3<=t then for o=16,96 do if 0<t then d[e[l]]=d[e[r]][e[f]];n=n+1;e=a[n];break;end;d[e[l]]=d[e[r]][e[f]];n=n+1;e=a[n];break;end;else d[e[l]]=d[e[r]][e[f]];n=n+1;e=a[n];end else if-1<t then for o=46,88 do if t~=2 then if(d[e[l]]==e[f])then n=n+1;else n=e[r];end;break;end;d[e[l]]=d[e[r]][e[f]];n=n+1;e=a[n];break;end;else if(d[e[l]]==e[f])then n=n+1;else n=e[r];end;end end end until true;else for t=0,3 do if 1>=t then if-3<=t then for o=16,96 do if 0<t then d[e[l]]=d[e[r]][e[f]];n=n+1;e=a[n];break;end;d[e[l]]=d[e[r]][e[f]];n=n+1;e=a[n];break;end;else d[e[l]]=d[e[r]][e[f]];n=n+1;e=a[n];end else if-1<t then for o=46,88 do if t~=2 then if(d[e[l]]==e[f])then n=n+1;else n=e[r];end;break;end;d[e[l]]=d[e[r]][e[f]];n=n+1;e=a[n];break;end;else if(d[e[l]]==e[f])then n=n+1;else n=e[r];end;end end end end else if t>4 then n=e[r];else n=e[r];end end else if 1>=t then if 0<t then d[e[l]]=d[e[r]][e[f]];else local t;for o=0,1 do if-3~=o then for f=34,95 do if 1>o then d(e[l],e[r]);n=n+1;e=a[n];break;end;t=e[l]d[t](h(d,t+1,e[r]))break;end;else t=e[l]d[t](h(d,t+1,e[r]))end end end else if t>=0 then repeat if t~=3 then d[e[l]]=(e[r]~=0);break;end;local n=e[l]d[n](h(d,n+1,e[r]))until true;else d[e[l]]=(e[r]~=0);end end end end end n=1+n;end;end;return ee end;local l=0xff;local c={};local a=(1);local r='';(function(n)local d=n local t=0x00 local e=0x00 d={(function(o)if t>0x1e then return o end t=t+1 e=(e+0xba0-o)%0x35 return(e%0x03==0x1 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x5);l[2]=(l[2]*(p(function()c()end,h(r))-p(l[1],h(r))))+1;c[a]={};l=l[2];a=a+l;end return true end)'XHpYS'and d[0x2](0x1c1+o))or(e%0x03==0x2 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x32);end return true end)'lkDAL'and d[0x1](o+0x39b))or(e%0x03==0x0 and(function(d)if not n[d]then e=e+0x01 n[d]=(0xa7);end return true end)'S_PZj'and d[0x3](o+0x156))or o end),(function(r)if t>0x31 then return r end t=t+1 e=(e+0x11a5-r)%0x28 return(e%0x03==0x1 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x1e);c[a]=de();a=a+l;end return true end)'ZHQmQ'and d[0x1](0x24d+r))or(e%0x03==0x0 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x4);end return true end)'h_yTj'and d[0x3](r+0x2a9))or(e%0x03==0x2 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x90);end return true end)'UMaOC'and d[0x2](r+0x2f7))or r end),(function(f)if t>0x25 then return f end t=t+1 e=(e+0xa05-f)%0x40 return(e%0x03==0x2 and(function(d)if not n[d]then e=e+0x01 n[d]=(0xa4);r={r..'\58 a',r};c[a]=m();a=a+((not o.QzTcar_d)and 1 or 0);r[1]='\58'..r[1];l[2]=0xff;end return true end)'Cilsv'and d[0x1](0x142+f))or(e%0x03==0x0 and(function(d)if not n[d]then e=e+0x01 n[d]=(0x16);end return true end)'tIwSi'and d[0x2](f+0x356))or(e%0x03==0x1 and(function(d)if not n[d]then e=e+0x01 n[d]=(0xc2);r='\37';l={function()l()end};r=r..'\100\43';end return true end)'TdPfY'and d[0x3](f+0x2b5))or f end)}d[0x3](0x1a0e)end){};local e=ne(h(c));return e(...);end return y((function()local n={}local e=0x01;local d;if o.QzTcar_d then d=o.QzTcar_d(y)else d=''end if o.HWwi_qAd(d,o.gWsfMs_f)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(d,e,n,r,l,t)local t;if d<4 then if 1<d then if 1<=d then for t=17,62 do if 2<d then do return e(1),e(4,l,r,n,e),e(5,l,r,n)end;break;end;do return 16777216,65536,256 end;break;end;else do return e(1),e(4,l,r,n,e),e(5,l,r,n)end;end else if-2<=d then repeat if d>0 then do return function(d,e,n)if n then local e=(d/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(d%(e+e)>=e)and 1 or 0;end;end;end;break;end;do return e(1),e(4,l,r,n,e),e(5,l,r,n)end;until true;else do return e(1),e(4,l,r,n,e),e(5,l,r,n)end;end end else if d>=6 then if d<7 then do return l[n]end;else if 7==d then do return setmetatable({},{['__\99\97\108\108']=function(e,r,l,d,n)if n then return e[n]elseif d then return e else e[r]=l end end})end else do return n(d,nil,n);end end end else if 4<d then local d=r;do return function()local e=e(n,d(d,d),d(d,d));d(1);return e;end;end;else local d=r;local t,l,r=l(2);do return function()local n,e,a,o=e(n,d(d,d),d(d,d)+3);d(4);return(o*t)+(a*l)+(e*r)+n;end;end;end end end end),...)
+
+local ScreenGui = Instance.new("ScreenGui")
+local Frame_1 = Instance.new("Frame")
+local ImageButton_1 = Instance.new("ImageButton")
+
+-- Properties:
+ScreenGui.Parent = game.CoreGui
+
+Frame_1.Parent = ScreenGui
+Frame_1.BackgroundColor3 = Color3.fromRGB(255,255,255)
+Frame_1.Position = UDim2.new(0.0496077649, 0,0.134853914, 0)
+Frame_1.Size = UDim2.new(0, 43,0, 41)
+
+ImageButton_1.Parent = Frame_1
+ImageButton_1.Active = true
+ImageButton_1.BackgroundColor3 = Color3.fromRGB(255,255,255)
+ImageButton_1.BorderColor3 = Color3.fromRGB(128,17,255)
+ImageButton_1.Position = UDim2.new(-0.00698809186, 0,-0.0136182783, 0)
+ImageButton_1.Size = UDim2.new(0, 43,0, 41)
+ImageButton_1.Image = "http://www.roblox.com/asset/?id=12514663645"
+ImageButton_1.MouseButton1Down:Connect(function()
+	game:GetService("VirtualInputManager"):SendKeyEvent(true, "RightControl" , false , game)
+end)
+
+local a=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))()local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="⚔Loading EDU HUB⚔",Description="Please Wait✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=3,Type="default"})wait(3)
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/EVILDARKSIDEUPV1/ui/main/README.md"))()
+local Window = Library.CreateLib("EDU HUB : Stand Upright : Rebooted", "BloodTheme")
+
+local Tab = Window:NewTab("Farm")
+local Section = Tab:NewSection("Farm Level to Auto Quests.")
+Section:NewSlider("Customize Y",10,-20,20,function(t)
+        Disc = t
+    end)
+    
+Section:NewSlider("Customize X",-4,-20,20,function(y)
+        Disc2 = y
+    end)
+    
+local Section = Tab:NewSection("Auto Use Skilll")
+
+Section:NewToggle("Use Skill All", "Click to Use", function(sss)
+_G.AutoSkill = sss
+local plr = game:GetService("Players").LocalPlayer
+local character = plr.Character
+       while _G.AutoSkill do wait()
+           for _, Event in ipairs(character.StandEvents:GetChildren()) do 
+                   if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                           game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                   end
+                    if _G.AutoSkill == false   then
+                           game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value = false
+                    end
+                if Event.Name == "Block" then continue end
+                if Event.Name == "Quote" then continue end
+                if Event.Name == "Pose" then continue end
+                if Event.Name == "Summon" then continue end
+                if Event.Name == "Heal" then continue end
+                if Event.Name == "Jump" then continue end
+                if Event.Name == "TogglePilot" then continue end
+                Event:FireServer(true)
+           end
+        end 
+end)
+
+
+local Section = Tab:NewSection("Use Skill Choice")
+
+local SkillList = {
+    "E",
+    "R",
+    "T",
+    "Y",
+    "F",
+    "H",
+    "J",
+    "Z",
+    "X",
+}
+Section:NewDropdown("Skill Choice", "Click to Select",SkillList, function(Sk)
+   Chsk = Sk
+end)
+
+Section:NewToggle("Start using the skill", "", function(Ausk)
+    _G.Asd = Ausk
+    while _G.Asd do wait()
+if Chsk == "E" then
+game:GetService("VirtualInputManager"):SendKeyEvent(true,"E",false,game)  continue end
+        
+if Chsk == "R" then
+game:GetService("VirtualInputManager"):SendKeyEvent(true,"R",false,game)  continue end
+
+if Chsk == "T" then
+game:GetService("VirtualInputManager"):SendKeyEvent(true,"T",false,game) continue end
+
+if Chsk == "Y" then
+game:GetService("VirtualInputManager"):SendKeyEvent(true,"Y",false,game)  continue end
+
+if Chsk == "F" then
+game:GetService("VirtualInputManager"):SendKeyEvent(true,"F",false,game) continue end
+
+if Chsk == "H" then
+game:GetService("VirtualInputManager"):SendKeyEvent(true,"H",false,game) continue end
+
+if Chsk == "J" then
+game:GetService("VirtualInputManager"):SendKeyEvent(true,"J",false,game) continue end
+
+if Chsk == "Z" then
+game:GetService("VirtualInputManager"):SendKeyEvent(true,"Z",false,game) continue end
+
+if Chsk == "X" then
+game:GetService("VirtualInputManager"):SendKeyEvent(true,"X",false,game) continue end
+
+end
+end)
+
+local Section = Tab:NewSection("Auto Farm Level to Auto Quests.")
+local MonList = {
+    "Bad Gi [Lvl. 1+]",
+    "Scary Monster [Lvl. 10+]",
+    "Giorno Giovanna [Lvl. 20+]",
+    "Rker Dummy [Lvl. 30+]",
+    "Yoshikage Kira [Lvl. 40+]",
+    "Dio Over Heaven [Lvl. 50+]",
+    "Angelo [Lvl. 75+]",
+    "Alien [Lvl. 100+]",
+    "Jotaro Part 4 [Lvl. 125+]",
+    "Kakyoin [Lvl. 150+]",
+    "Sewer Vampire [Lvl. 200+]",
+    "Pillerman [Lvl. 275+]",
+}
+
+Section:NewDropdown("Select Farm Level", "Click to Select",MonList, function(NPC)
+    Monkill = NPC
+end)
+
+Section:NewToggle("Start Farm Level", "Click to kill", function(ATKill)
+if Monkill == "Bad Gi [Lvl. 1+]" then
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="Bad Gi [Lvl. 1+]⚔",Description="Start Work ✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=1,Type="default"})wait(0.2)
+_G.AutoFarm = ATKill
+
+    
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Bad Gi" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    workspace.Map.NPCs.Giorno.Done:FireServer()
+                      workspace.Map.NPCs.Giorno.QuestDone:FireServer()
+                         
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            v.HumanoidRootPart.Anchored = true
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc)
+                                else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, 4)
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+            end
+            end)
+        end
+    end
+end
+if Monkill == "Scary Monster [Lvl. 10+]" then
+_G.AutoFarm = ATKill
+
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="Scary Monster [Lvl. 10+]⚔",Description="Start Work ✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=1,Type="default"})wait(0.2)
+
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Scary Monster" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    workspace.Map.NPCs:FindFirstChild("Scared Noob").Done:FireServer()
+                       workspace.Map.NPCs:FindFirstChild("Scared Noob").QuestDone:FireServer()
+                    
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            v.HumanoidRootPart.Anchored = true
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc)                            else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, 4)
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+            end
+            end)
+        end
+    end
+end
+if Monkill == "Giorno Giovanna [Lvl. 20+]" then
+
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="Giorno Giovanna [Lvl. 20+]⚔",Description="Start Work ✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=1,Type="default"})wait(0.2)
+
+_G.AutoFarm = ATKill
+        if _G.AutoFarm then
+
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Giorno Giovanna" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    workspace.Map.NPCs.Koichi.Done:FireServer()
+                       workspace.Map.NPCs.Koichi.QuestDone:FireServer()
+                    
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc)
+                                else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, 4)
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+            end
+            end)
+        end
+    end
+end
+if Monkill == "Rker Dummy [Lvl. 30+]" then
+
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="Rker Dummy [Lvl. 30+]⚔",Description="Start Work ✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=1,Type="default"})wait(0.2)
+
+_G.AutoFarm = ATKill
+    
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Rker Dummy" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    workspace.Map.NPCs.aLLmemester.Done:FireServer()
+                       workspace.Map.NPCs.aLLmemester.QuestDone:FireServer()
+                    
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            v.HumanoidRootPart.Anchored = true
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc)
+                                else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, 4)
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+            end
+            end)
+        end
+    end
+end
+if Monkill == "Yoshikage Kira [Lvl. 40+]" then
+
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="Yoshikage Kira [Lvl. 40+]⚔",Description="Start Work ✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=1,Type="default"})wait(0.2)
+
+_G.AutoFarm = ATKill
+    
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Yoshikage Kira" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    workspace.Map.NPCs.Okayasu.Done:FireServer()
+                      workspace.Map.NPCs.Okayasu.QuestDone:FireServer()
+                    
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc)                            else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, 4)
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+            end
+            end)
+        end
+    end
+end
+if Monkill == "Dio Over Heaven [Lvl. 50+]" then
+
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="Dio Over Heaven [Lvl. 50+]⚔",Description="Start Work ✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=1,Type="default"})wait(0.2)
+
+_G.AutoFarm = ATKill
+    
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Dio Over Heaven" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    workspace.Map.NPCs:FindFirstChild("Joseph Joestar").Done:FireServer()
+                        workspace.Map.NPCs:FindFirstChild("Joseph Joestar").QuestDone:FireServer()
+                    
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc)
+                                else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, 4)
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+            end
+            end)
+        end
+    end
+end
+if Monkill == "Angelo [Lvl. 75+]" then
+
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="Angelo [Lvl. 75+]⚔",Description="Start Work ✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=1,Type="default"})wait(0.2)
+
+_G.AutoFarm = ATKill
+    
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Angelo" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    workspace.Map.NPCs.Josuke.Done:FireServer()
+                       workspace.Map.NPCs.Josuke.QuestDone:FireServer()
+                    
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            v.HumanoidRootPart.Anchored = true
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc)
+                                else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, 4)
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+            end
+            end)
+        end
+    end
+end
+if Monkill == "Alien [Lvl. 100+]" then
+
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="Alien [Lvl. 100+]⚔",Description="Start Work ✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=1,Type="default"})wait(0.2)
+
+_G.AutoFarm = ATKill
+    
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Alien" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    workspace.Map.NPCs.Rohan.Done:FireServer()
+                       workspace.Map.NPCs.Rohan.QuestDone:FireServer()
+                    
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            v.HumanoidRootPart.Anchored = true
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc)
+                                else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, 4)
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+            end
+            end)
+        end
+    end
+end
+if Monkill == "Jotaro Part 4 [Lvl. 125+]" then
+
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="Jotaro Part 4 [Lvl. 125+]⚔",Description="Start Work ✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=1,Type="default"})wait(0.2)
+
+_G.AutoFarm = ATKill
+    
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Jotaro Part 4" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    workspace.Map.NPCs.DIO.Done:FireServer()
+                        workspace.Map.NPCs.DIO.QuestDone:FireServer()
+                    
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc)
+                                else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, 4)
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+            end
+            end)
+        end
+    end
+end
+if Monkill == "Kakyoin [Lvl. 150+]" then
+
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="Kakyoin [Lvl. 150+]⚔",Description="Start Work ✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=1,Type="default"})wait(0.2)
+
+_G.AutoFarm = ATKill
+    
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Kakyoin" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    workspace.Map.NPCs:FindFirstChild("Muhammed Avdol").QuestDone:FireServer()
+                      workspace.Map.NPCs:FindFirstChild("Muhammed Avdol").Done:FireServer()
+                    
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                           
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc)
+                                else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, 4)
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+            end
+            end)
+        end
+    end
+end
+if Monkill == "Sewer Vampire [Lvl. 200+]" then
+
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="Sewer Vampire [Lvl. 200+]⚔",Description="Start Work ✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=1,Type="default"})wait(0.2)
+
+_G.AutoFarm = ATKill
+    
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Sewer Vampire" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    game:GetService("Workspace").Map.NPCs["Zeppeli"].QuestDone:FireServer() 
+                     game:GetService("Workspace").Map.NPCs["Zeppeli"].Done:FireServer() 
+                    
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            v.HumanoidRootPart.Anchored = true
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc)                            
+                                else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, 4)
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+            end
+            end)
+        end
+    end
+end
+if Monkill == "Pillerman [Lvl. 275+]" then
+
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="Pillerman [Lvl. 275+]⚔",Description="Start Work ✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=1,Type="default"})wait(0.2)
+
+_G.AutoFarm = ATKill
+    
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Pillerman" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    game:GetService("Workspace").Map.NPCs["Young Joseph"].Done:FireServer() 
+                      game:GetService("Workspace").Map.NPCs["Young Joseph"].QuestDone:FireServer()
+                      
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            v.HumanoidRootPart.Anchored = true
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc)
+                            else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, 4)
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+            end
+            end)
+        end
+    end
+end
+end)
+
+--]] ฟาร์มบอส โจทาโร่-นักบุญ
+
+
+local Section = Tab:NewSection("Farm Boss Johnny Joestar-Jotaro Over Heaven")
+
+Section:NewToggle("Auto Kill Johnny Joestar", "Click to Kill", function(AuKN)
+    _G.AutoFarm = AuKN
+    
+    local Target = "Pillerman"
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "JohnnyJoestar" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    
+                    
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc) -- -593.952698, 66.6276474, -783.119934, -0.707110405, -5.96460623e-08, -0.707103133, -8.71555841e-08, 1, 2.80376944e-09, 0.707103133, 6.36105568e-08, -0.707110405
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                                        for i,v in pairs(game:GetService("Workspace").Items:GetChildren()) do
+   if v.ClassName == "Tool" then
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v:FindFirstChild("Handle").CFrame
+   end
+end
+                end
+            end
+            end)
+        end
+    end
+end)
+
+Section:NewToggle("Auto Kill Jotaro Over Heaven", "Click to Kill", function(AuKJ)
+    _G.AutoFarm = AuKJ
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="📒Jotaro Over Heaven📒",Description="Start Work ✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=1,Type="default"})wait(0.2)
+
+    local Target = "Pillerman"
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Jotaro Over Heaven" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    
+                    
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc) -- -593.952698, 66.6276474, -783.119934, -0.707110405, -5.96460623e-08, -0.707103133, -8.71555841e-08, 1, 2.80376944e-09, 0.707103133, 6.36105568e-08, -0.707110405
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    for i,v in pairs(game:GetService("Workspace").Items:GetChildren()) do
+   if v.ClassName == "Tool" then
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = v:FindFirstChild("Handle").CFrame
+   end
+end
+                end
+            end
+            end)
+        end
+    end
+end)
+
+Section:NewToggle("PaPer farm", "ToggleInfo", function(AuKN)
+    _G.AutoFarm = AuKN
+    local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="📃PaPer📃",Description="Start Work ✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=1,Type="default"})wait(0.2)
+
+    local Target = "Pillerman"
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Alternate Jotaro Part 4" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    
+                    
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc) -- -593.952698, 66.6276474, -783.119934, -0.707110405, -5.96460623e-08, -0.707103133, -8.71555841e-08, 1, 2.80376944e-09, 0.707103133, 6.36105568e-08, -0.707110405
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+            end
+            end)
+        end
+    end
+end)
+
+--]] ลงดัน
+
+local Section = Tab:NewSection("Auto Farm Dungeon")
+local DunLvl = {
+    "Dungeon [Lvl.15+]",
+    "Dungeon [Lvl.40+]",
+    "Dungeon [Lvl.80+]",
+    "Dungeon [Lvl.100+]",
+    "Dungeon [Lvl.200+]",
+}
+Section:NewDropdown("Choose Dungeon", "", DunLvl, function(AuDun)
+local b=loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()b:Notify({Title="Press Start Farm Dungeon✅",Description="Saving the Dungeon please wait......✅"},{OutlineColor=Color3.fromRGB(128,17,255),Time=2,Type="default"})wait(0.2)
+   ChDun = AuDun
+end)
+
+Section:NewToggle("Start Farm Dungeon", "", function(AuFDun)
+    if ChDun == "Dungeon [Lvl.15+]" then
+    _G.AutoFarm1 = AuFDun
+
+    if _G.AutoFarm1 then
+        while _G.AutoFarm1 and task.wait() do
+for i,v in pairs(game:GetService("Workspace").Map.NPCs:GetDescendants()) do
+if v.Name == "i_stabman" or v.Name == "i_stabman [Lvl. 15+]" or v.Name == "i_stabman [Lvl. 40+]" or v.Name == "i_stabman [Lvl. 80+]" or v.Name == "i_stabman [Lvl. 100+]" or v.Name == "i_stabman [Lvl. 200+]" then
+      if v:FindFirstChild("Head").Main.Text.Text == "i_stabman [Lvl. 15+]" then
+          v:FindFirstChild("Done"):FireServer()
+      end
+   end
+end
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Boss" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm1 == true then
+                    if v.Head.Display.Frame.t.Text == "Bad Gi Boss" then
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            if _G.AutoFarm1 == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc) -- -593.952698, 66.6276474, -783.119934, -0.707110405, -5.96460623e-08, -0.707103133, -8.71555841e-08, 1, 2.80376944e-09, 0.707103133, 6.36105568e-08, -0.707110405
+                            else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("Humanoid").Health = 0
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm1 == false
+                    
+                    if _G.AutoFarm1 == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm1 == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                    end
+            end
+            end
+            end)
+        end
+    end
+    end
+    if ChDun == "Dungeon [Lvl.40+]" then
+    _G.AutoFarm3 = AuFDun
+
+
+
+    if _G.AutoFarm3 then
+        while _G.AutoFarm3 and task.wait() do
+for i,v in pairs(game:GetService("Workspace").Map.NPCs:GetDescendants()) do
+if v.Name == "i_stabman" or v.Name == "i_stabman [Lvl. 15+]" or v.Name == "i_stabman [Lvl. 40+]" or v.Name == "i_stabman [Lvl. 80+]" or v.Name == "i_stabman [Lvl. 100+]" or v.Name == "i_stabman [Lvl. 200+]" then
+      if v:FindFirstChild("Head").Main.Text.Text == "i_stabman [Lvl. 40+]" then
+          v:FindFirstChild("Done"):FireServer()
+      end
+   end
+end
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Boss" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm3 == true then
+                if v.Head.Display.Frame.t.Text == "Dio [Dungeon]" then
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            if _G.AutoFarm3 == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc) -- -593.952698, 66.6276474, -783.119934, -0.707110405, -5.96460623e-08, -0.707103133, -8.71555841e-08, 1, 2.80376944e-09, 0.707103133, 6.36105568e-08, -0.707110405
+                            else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("Humanoid").Health = 0
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm3 == false
+                    
+                    if _G.AutoFarm3 == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm3 == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+                end
+        end
+            end)
+        end
+    end
+    end
+    if ChDun == "Dungeon [Lvl.80+]" then
+    _G.AutoFarm4 = AuFDun
+    if _G.AutoFarm4 then
+        while _G.AutoFarm4 and task.wait() do
+for i,v in pairs(game:GetService("Workspace").Map.NPCs:GetDescendants()) do
+if v.Name == "i_stabman" or v.Name == "i_stabman [Lvl. 15+]" or v.Name == "i_stabman [Lvl. 40+]" or v.Name == "i_stabman [Lvl. 80+]" or v.Name == "i_stabman [Lvl. 100+]" or v.Name == "i_stabman [Lvl. 200+]" then
+      if v:FindFirstChild("Head").Main.Text.Text == "i_stabman [Lvl. 80+]" then
+          v:FindFirstChild("Done"):FireServer()
+      end
+   end
+end
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Boss" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm4 == true then
+                    if v.Head.Display.Frame.t.Text == "Homeless Lord" then
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            if _G.AutoFarm4 == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc) -- -593.952698, 66.6276474, -783.119934, -0.707110405, -5.96460623e-08, -0.707103133, -8.71555841e-08, 1, 2.80376944e-09, 0.707103133, 6.36105568e-08, -0.707110405
+                            else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("Humanoid").Health = 0
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm2 == false
+                    
+                    if _G.AutoFarm4 == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm4 == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                    end
+            end
+            end
+        end
+    end
+    end
+    if ChDun == "Dungeon [Lvl.100+]" then
+    _G.AutoFarm4 = AuFDun
+
+
+    if _G.AutoFarm4 then
+        while _G.AutoFarm4 and task.wait() do
+for i,v in pairs(game:GetService("Workspace").Map.NPCs:GetDescendants()) do
+if v.Name == "i_stabman" or v.Name == "i_stabman [Lvl. 15+]" or v.Name == "i_stabman [Lvl. 40+]" or v.Name == "i_stabman [Lvl. 80+]" or v.Name == "i_stabman [Lvl. 100+]" or v.Name == "i_stabman [Lvl. 200+]" then
+      if v:FindFirstChild("Head").Main.Text.Text == "i_stabman [Lvl. 100+]" then
+          v:FindFirstChild("Done"):FireServer()
+      end
+   end
+end
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Boss" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm4 == true then
+                if v.Head.Display.Frame.t.Text == "Diavolo [Dungeon]" then
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            if _G.AutoFarm4 == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc) -- -593.952698, 66.6276474, -783.119934, -0.707110405, -5.96460623e-08, -0.707103133, -8.71555841e-08, 1, 2.80376944e-09, 0.707103133, 6.36105568e-08, -0.707110405
+                            else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("Humanoid").Health = 0
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm4 == false
+                    
+                    if _G.AutoFarm4 == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm4 == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+                end
+        end
+        end
+    end
+    end
+    if ChDun == "Dungeon [Lvl.200+]" then
+    _G.AutoFarm5 = AuFDun
+
+    if _G.AutoFarm5 then
+        while _G.AutoFarm5 and task.wait() do
+for i,v in pairs(game:GetService("Workspace").Map.NPCs:GetDescendants()) do
+if v.Name == "i_stabman" or v.Name == "i_stabman [Lvl. 15+]" or v.Name == "i_stabman [Lvl. 40+]" or v.Name == "i_stabman [Lvl. 80+]" or v.Name == "i_stabman [Lvl. 100+]" or v.Name == "i_stabman [Lvl. 200+]" then
+      if v:FindFirstChild("Head").Main.Text.Text == "i_stabman [Lvl. 200+]" then
+          v:FindFirstChild("Done"):FireServer()
+      end
+   end
+end
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Boss" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm5 == true then
+                if v.Head.Display.Frame.t.Text == "Jotaro P6 [Dungeon]" then
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            if _G.AutoFarm5 == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0,Disc2,Disc) -- -593.952698, 66.6276474, -783.119934, -0.707110405, -5.96460623e-08, -0.707103133, -8.71555841e-08, 1, 2.80376944e-09, 0.707103133, 6.36105568e-08, -0.707110405
+                            else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("Humanoid").Health = 0
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm5 == false
+                    
+                    if _G.AutoFarm5 == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm5 == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+                end
+        end
+            end)
+        end
+    end
+    end
+end)
+
+local Section = Tab:NewSection("Farm Female Immortal Dummy")
+Section:NewToggle("Auto Farm Dummy", "ToggleInfo", function(t)
+_G.AutoFarm = t
+    
+    local Target = "Pillerman"
+    if _G.AutoFarm then
+        while _G.AutoFarm and task.wait() do
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace").Living:GetChildren()) do
+                if v.Name == "Female Immortal Dummy" and v:FindFirstChild("Humanoid").Health ~= 0 and _G.AutoFarm == true then
+                    
+                    
+                    repeat
+                        task.wait()
+                        pcall(function()
+                            for i, v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.CDgui.fortnite:GetChildren()) do
+                                if v:IsA("Frame") and v.Textt.Text == "Punch" then
+                                    
+                                else
+                                    game:GetService("Players").LocalPlayer.Character.StandEvents.M1:FireServer()
+                                end
+                            end
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Kars") and ("Stand")  then
+                                game:GetService("Players").LocalPlayer.Character.Stand:WaitForChild("HumanoidRootPart").CFrame = game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame
+                            end
+                            if _G.AutoFarm == true then
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, -4, 3, 0.5, 0, 0, 1) -- -593.952698, 66.6276474, -783.119934, -0.707110405, -5.96460623e-08, -0.707103133, -8.71555841e-08, 1, 2.80376944e-09, 0.707103133, 6.36105568e-08, -0.707110405
+                            else
+                                game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").CFrame = v:FindFirstChild("HumanoidRootPart").CFrame * CFrame.new(0, 0, 4)
+                            end
+                            game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Velocity = Vector3.new(0, 0, 0)
+                            if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Aura").Value == false   then
+                                game:GetService("Players").LocalPlayer.Character.StandEvents.Summon:FireServer()
+                            end
+                        end)
+                    until v:FindFirstChild("Humanoid").Health == 0 or _G.AutoFarm == false
+                    
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 0, 1000))
+                    end
+                    if _G.AutoFarm == true then
+                        game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position + Vector3.new(0, 10, 0))
+                    end
+                end
+            end
+            end)
+        end
+    end
+end)
+
+local Tab = Window:NewTab("Auto Buy Item ")
+local Section = Tab:NewSection("ไปยืนไกล้ๆNpc และ ใส่จำนวนของก่อนกดซื้อ")
+
+Section:NewButton("วาปไปจุดซื้อของ", "TextboxInfo", function()
+    game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(11927.1, -3.28935, -4488.59)
+    if game:GetService("Players").LocalPlayer.Character:FindFirstChild("Stand") then
+        game:GetService("Players").LocalPlayer.Character:FindFirstChild("Stand").HumanoidRootPart.CFrame = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame
+    end
+end)
+Section:NewTextBox("ใส่จำนวนที่จะซื้อ", "TextboxInfo", function(A)
+    if tonumber(A) then
+        if tonumber(A) >= 1 then
+            Amount = tonumber(A)
+            CreateNotification("Arctic", "Amount Set To : "..tostring(Amount), {})
+        else
+            CreateNotification("Arctic", "Please Set The Number Above 0+", {})
+        end
+    end
+end)
+Section:NewButton("Rokakaka ( 2,500c )", "Click To Teleport", function()
+
+    for i = 1, Amount, 1 do
+        game:GetService("ReplicatedStorage").Events.BuyItem:FireServer("MerchantAU", "Option2")
+    end
+end)
+
+Section:NewButton("Stand Arrow ( 3,500c )", "Click To Teleport", function()
+    for i = 1, Amount, 1 do
+        game:GetService("ReplicatedStorage").Events.BuyItem:FireServer("MerchantAU", "Option4")
+    end
+end)
+
+Section:NewButton("Charged Arrow ( 50,000c )", "Click To Teleport", function()
+    for i = 1, Amount, 1 do
+        game:GetService("ReplicatedStorage").Events.BuyItem:FireServer("Merchantlvl120", "Option2")
+    end
+end)
+
+Section:NewButton("Dio Diary ( 1,500,000c )", "Click To Teleport", function()
+    for i = 1, Amount, 1 do
+        game:GetService("ReplicatedStorage").Events.BuyItem:FireServer("Merchantlvl120", "Option3")
+    end
+end)
+
+Section:NewButton("Requiem Arrow ( 1,500,000c )", "Click To Teleport", function()
+    for i = 1, Amount, 1 do
+        game:GetService("ReplicatedStorage").Events.BuyItem:FireServer("Merchantlvl120", "Option4")
+    end
+end)
+
+local Tab = Window:NewTab("Farm Stand")
+local Section = Tab:NewSection("Stand Storage")
+Section:NewButton("open stand storage", "Click to Use", function()
+workspace.Map.NPCs.admpn.Done:FireServer()
+end)
+
+Section:NewButton("Farm Stand-Farm item", "Click ", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/EVILDARKSIDEUPV1/scriptfarmstandvip/main/SCRIPT%20FARMSTAND.md"))()
+        end)
+        
+local Tab = Window:NewTab("AFK 20 Minute")
+local Section = Tab:NewSection("ห้ามให้จอดับหากว่าพักหน้าจอหรือจอดับก็หลุด")
+Section:NewButton("AFK", "Click To Teleport", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/EVILDARKSIDEUPV1/afk/main/README.md"))()
+        end)        
+        
+        
+local Tab = Window:NewTab("PVP")
+local Section = Tab:NewSection("FOV-Fly")
+Section:NewButton("FOV", "Click To Teleport", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/EVILDARKSIDEUPV1/FOV/main/README.md"))()
+        end)
+Section:NewButton("Fly", "Click To Teleport", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/EVILDARKSIDEUPV1/fly/main/README.md"))()
+        end)
+Section:NewButton("map", "Click To Teleport", function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/EVILDARKSIDEUPV1/map/main/README.md"))()
+        end)
+        
+        
+
+local Tab = Window:NewTab("Fps")
+local Section = Tab:NewSection("Boot Fps 1")
+Section:NewButton("Click Boot", "Click To Teleport", function()
+        loadstring(game:HttpGet("https://pastebin.com/raw/qtu4MBV0"))()
+        end)
+        local Section = Tab:NewSection("Boot Fps 2")
+        Section:NewButton("Click Boot", "Click To Teleport", function()
+        _G.Settings = {
+    Players = {
+        ["Ignore Me"] = true, -- Ignore your Character
+        ["Ignore Others"] = true-- Ignore other Characters
+    },
+    Meshes = {
+        Destroy = false, -- Destroy Meshes
+        LowDetail = true -- Low detail meshes (NOT SURE IT DOES ANYTHING)
+    },
+    Images = {
+        Invisible = true, -- Invisible Images
+        LowDetail = false, -- Low detail images (NOT SURE IT DOES ANYTHING)
+        Destroy = false, -- Destroy Images
+    },
+    ["No Particles"] = true, -- Disables all ParticleEmitter, Trail, Smoke, Fire and Sparkles
+    ["No Camera Effects"] = true, -- Disables all PostEffect's (Camera/Lighting Effects)
+    ["No Explosions"] = true, -- Makes Explosion's invisible
+    ["No Clothes"] = true, -- Removes Clothing from the game
+    ["Low Water Graphics"] = true, -- Removes Water Quality
+    ["No Shadows"] = true, -- Remove Shadows
+    ["Low Rendering"] = true, -- Lower Rendering
+    ["Low Quality Parts"] = true -- Lower quality parts
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/FPSBooster.lua"))()
+          end)
+            Section:NewButton("Draggable FPS Viewer", "ButtonInfo", function()
+    -- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local ScreenGui = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local TextLabel = Instance.new("TextLabel")
+local TextLabel_2 = Instance.new("TextLabel")
+
+--Properties:
+
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+
+Frame.Parent = ScreenGui
+Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Frame.ClipsDescendants = true
+Frame.Position = UDim2.new(0.022813689, 0, 0.0541082174, 0)
+Frame.Size = UDim2.new(0, 79, 0, 56)
+
+UICorner.Parent = Frame
+
+TextLabel.Parent = Frame
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.Position = UDim2.new(0.129077807, 0, 0.400000036, 0)
+TextLabel.Size = UDim2.new(0, 31, 0, 30)
+TextLabel.Font = Enum.Font.SourceSansBold
+TextLabel.Text = "60"
+TextLabel.TextColor3 = Color3.fromRGB(255, 0, 0)
+TextLabel.TextSize = 34.000
+TextLabel.TextWrapped = true
+
+TextLabel_2.Parent = Frame
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundTransparency = 1.000
+TextLabel_2.Position = UDim2.new(0.127986133, 0, 0.132142887, 0)
+TextLabel_2.Size = UDim2.new(0, 29, 0, 15)
+TextLabel_2.Font = Enum.Font.SourceSansBold
+TextLabel_2.Text = "FPS"
+TextLabel_2.TextColor3 = Color3.fromRGB(255, 0, 0)
+TextLabel_2.TextScaled = true
+TextLabel_2.TextSize = 34.000
+TextLabel_2.TextWrapped = true
+
+-- Scripts:
+
+local function GZAQCE_fake_script() -- TextLabel.LocalScript 
+	local script = Instance.new('LocalScript', TextLabel)
+
+	local textLabel = script.Parent
+	
+	local runService = game:GetService("RunService")
+	
+	local goodFPS = 30
+	local okFPS = 15
+	
+	runService.RenderStepped:Connect(function()
+	
+		local currentFPS = workspace:GetRealPhysicsFPS()
+		textLabel.Text = math.floor(currentFPS)..""
+	
+		if currentFPS >= goodFPS then
+	
+			textLabel.TextColor3 = Color3.new(0,1,0)
+	
+		elseif currentFPS >= okFPS then
+	
+			textLabel.TextColor3 = Color3.new(1, 0.333333, 0)
+	
+		else
+	
+			textLabel.TextColor3 = Color3.new(1,0,0)
+	
+		end
+	
+	end)
+end
+coroutine.wrap(GZAQCE_fake_script)()
+local function JMWW_fake_script() -- Frame.LocalScript 
+	local script = Instance.new('LocalScript', Frame)
+
+	script.Parent.Draggable = true
+	script.Parent.Active = true
+	
+end
+coroutine.wrap(JMWW_fake_script)()
+end)
+
+local Tab = Window:NewTab("")
+local Section = Tab:NewSection("KeybindInfo")
+Section:NewKeybind("KeybindText", "KeybindInfo", Enum.KeyCode.RightControl, function()
+	Library:ToggleUI()
+end)
